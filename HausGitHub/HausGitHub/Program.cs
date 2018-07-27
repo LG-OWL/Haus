@@ -11,7 +11,7 @@ namespace Haus
         static void Main(string[] args)
         {
             string option; 
-            logger.Info("The program has been started.");
+            logger.Info("The program has been started."); 
             DoGreeting();
             do
             {
