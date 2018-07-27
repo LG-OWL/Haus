@@ -10,7 +10,7 @@ namespace Haus
         private static Hauslogik houselogic = new Hauslogik();
         static void Main(string[] args)
         {
-            string option;
+            string option; 
             logger.Info("The program has been started.");
             DoGreeting();
             do
